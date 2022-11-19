@@ -1,0 +1,13 @@
+@media (max-width: 755px) {
+    #cards {
+        flex-direction: column;
+        margin: 0 10px;
+    }
+}
+
+@media (min-width: 700px) {
+    #cards {
+        max-width: 1200px;
+        flex-wrap: wrap;
+    }
+}
