@@ -7,7 +7,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -32,3 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O calendário da Copa é um projeto que mostra o dia, data e horario de alguns dos jogos que irão acontecer da copa do mundo de 2022.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
